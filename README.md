@@ -1,2 +1,0 @@
-# TableData
-Created with CodeSandbox
