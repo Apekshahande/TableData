@@ -1,0 +1,65 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  
+  
+}
+.App h1{
+  font-size:35px;
+  text-shadow: 1px 1px 1px blue,
+  2px 2px 1px pink;
+  
+
+  
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+th tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+
+tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+th {
+  background-color: DodgerBlue;
+  font-size: 17px;
+}
+
+table,
+td,
+th {
+  border: 1.5px solid #ddd;
+  text-align: left;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+input {
+  width: 50%;
+  padding: 10px 10px;
+  margin: 4px 0px;
+  box-sizing: border-box;
+  border: 2px solid blue;
+  border-radius: 7px;
+ 
+}
+
+.inputbox{
+  background-color: blueviolet;
+}
